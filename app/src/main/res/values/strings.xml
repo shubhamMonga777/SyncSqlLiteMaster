@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SyncMaster</string>
+
+    <string name="sync_account_type">newsapi.com</string>
+    <string name="content_authority">com.newsapi</string>
+    <string name="no_news">No news</string>
+</resources>
